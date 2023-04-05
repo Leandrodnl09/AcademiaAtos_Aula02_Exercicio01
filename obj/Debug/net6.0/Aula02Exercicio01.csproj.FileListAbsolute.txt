@@ -1,0 +1,15 @@
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02\AcademiaAtos_ExerciciosAula02\Aula02Exercicio01\bin\Debug\net6.0\Aula02Exercicio01.exe
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02\AcademiaAtos_ExerciciosAula02\Aula02Exercicio01\bin\Debug\net6.0\Aula02Exercicio01.deps.json
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02\AcademiaAtos_ExerciciosAula02\Aula02Exercicio01\bin\Debug\net6.0\Aula02Exercicio01.runtimeconfig.json
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02\AcademiaAtos_ExerciciosAula02\Aula02Exercicio01\bin\Debug\net6.0\Aula02Exercicio01.dll
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02\AcademiaAtos_ExerciciosAula02\Aula02Exercicio01\bin\Debug\net6.0\Aula02Exercicio01.pdb
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02\AcademiaAtos_ExerciciosAula02\Aula02Exercicio01\obj\Debug\net6.0\Aula02Exercicio01.csproj.AssemblyReference.cache
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02\AcademiaAtos_ExerciciosAula02\Aula02Exercicio01\obj\Debug\net6.0\Aula02Exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02\AcademiaAtos_ExerciciosAula02\Aula02Exercicio01\obj\Debug\net6.0\Aula02Exercicio01.AssemblyInfoInputs.cache
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02\AcademiaAtos_ExerciciosAula02\Aula02Exercicio01\obj\Debug\net6.0\Aula02Exercicio01.AssemblyInfo.cs
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02\AcademiaAtos_ExerciciosAula02\Aula02Exercicio01\obj\Debug\net6.0\Aula02Exercicio01.csproj.CoreCompileInputs.cache
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02\AcademiaAtos_ExerciciosAula02\Aula02Exercicio01\obj\Debug\net6.0\Aula02Exercicio01.dll
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02\AcademiaAtos_ExerciciosAula02\Aula02Exercicio01\obj\Debug\net6.0\refint\Aula02Exercicio01.dll
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02\AcademiaAtos_ExerciciosAula02\Aula02Exercicio01\obj\Debug\net6.0\Aula02Exercicio01.pdb
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02\AcademiaAtos_ExerciciosAula02\Aula02Exercicio01\obj\Debug\net6.0\Aula02Exercicio01.genruntimeconfig.cache
+D:\LEANDRO\CURSOS\AcademiaAtosNET2023\Aula02\AcademiaAtos_ExerciciosAula02\Aula02Exercicio01\obj\Debug\net6.0\ref\Aula02Exercicio01.dll
